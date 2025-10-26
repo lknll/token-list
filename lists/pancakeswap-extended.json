@@ -3435,6 +3435,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+    },
+    {
+      "name": "MadMC",
+      "symbol": "MDMC",
+      "address": "0x2f62ef8783738d99e492ebabfdd37789534ab3c4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2f62ef8783738d99e492ebabfdd37789534ab3c4.png"
     }
   ]
 }
